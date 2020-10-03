@@ -1,0 +1,12 @@
+component list:
+1. Arduino UNO or Nano--------------1 pice
+2. Buzzer---------------------------1 pice
+3. Push button----------------------1 pice
+4.Resistor(4.8k or 10k)-------------1 pice
+5.Some jumper Wire
+6.BreadBoard------------------------1 pice
+7. 9 volt battery-------------------1 pice
+
+Connection:
+Arduino pin 7 connect buzzer positive side and buzzer negative connect arduino GND.Push button connect with resistor(4.8k 
+or 10k) between arduino GND and connect Arduino Pin 6.push button other pin connect Arduino 5 volt. 
